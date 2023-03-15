@@ -1,4 +1,4 @@
-# Data Wrangling Challange Data
+# Data for the Data Wrangling Challange
 A collection of data sets for the data wrangling challange in the guide to R programming book
 (https://africanobyamugisha.github.io/guide_to_R_pragramming/data-wrangling.html)
 
